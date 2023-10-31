@@ -4,9 +4,7 @@ public class tt {
 
     public static void main(String[] args) {
         System.out.println("1");
-    }
-
-    public void ttt42(){
+        System.out.println("b");
         System.out.println("b");
     }
 }
