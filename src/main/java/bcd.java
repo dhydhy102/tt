@@ -3,6 +3,9 @@ public class bcd {
         System.out.println("33");
         System.out.println("1");
 
+        System.out.println("33");
+        System.out.println("1");
+
     }
 
 
