@@ -6,5 +6,6 @@ public class tt {
         System.out.println("1");
         System.out.println("b");
         System.out.println("b");
+        System.out.println(331);
     }
 }
